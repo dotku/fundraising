@@ -24,3 +24,8 @@ HQ Location:
 
 --[YOUR NAME]
 ```
+
+## Startup Funds
+
+1. Y Combinator
+2. StartEngine
